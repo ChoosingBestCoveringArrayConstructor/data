@@ -1,5 +1,5 @@
-This repository presents the training and test data used in the paper named as "An Approach for Choosing the Best
-Covering Array Constructor to Use". All data (row) in the files are the average of five runs on different configuration space. The attributes are:
+The training and test data used in the paper named as "An Approach for Choosing the Best
+Covering Array Constructor to Use" is provided in here. All data (row) in the files are the average of five runs on different configuration space. The attributes are:
 
 * k: Number of configuration options   
 * t: Strength of covering array   
